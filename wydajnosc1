@@ -1,0 +1,6 @@
+A=zeros(10,10);
+v=zeros(10,1);
+x=zeros(10,1);
+
+x=v.+A.*v
+
